@@ -1,0 +1,107 @@
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe.config
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.pdb
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.AssemblyReference.cache
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.SuggestedBindingRedirects.cache
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Form1.resources
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Form2.resources
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Properties.Resources.resources
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.GenerateResource.cache
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.CoreCompileInputs.cache
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.exe
+F:\Crimmson\ggg\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.pdb
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe.config
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.pdb
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csprojAssemblyReference.cache
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Properties.Resources.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.GenerateResource.cache
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.CoreCompileInputs.cache
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.exe
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.pdb
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe.config
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.pdb
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csprojAssemblyReference.cache
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Form1.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Form2.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Properties.Resources.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.GenerateResource.cache
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.CoreCompileInputs.cache
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.exe
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.pdb
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe.config
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.pdb
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.AssemblyReference.cache
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.SuggestedBindingRedirects.cache
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Form2.resources
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Properties.Resources.resources
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.GenerateResource.cache
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.CoreCompileInputs.cache
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.exe
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.pdb
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Mainform.resources
+C:\Users\HondaMoo\Desktop\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pie_Form.resources
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe.config
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.pdb
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.AssemblyReference.cache
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.SuggestedBindingRedirects.cache
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Mainform.resources
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pie_Form.resources
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Properties.Resources.resources
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.GenerateResource.cache
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.CoreCompileInputs.cache
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.exe
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.pdb
+C:\Users\HondaMoo\Documents\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.BarForm.resources
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe.config
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.pdb
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csprojAssemblyReference.cache
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Mainform.resources
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.BarForm.resources
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pie_Form.resources
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Properties.Resources.resources
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.GenerateResource.cache
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.CoreCompileInputs.cache
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.exe
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.pdb
+C:\Users\Khaled zahran\Desktop\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Boxplot.resources
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe.config
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.pdb
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.AssemblyReference.cache
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.SuggestedBindingRedirects.cache
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Boxplot.resources
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Mainform.resources
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.BarForm.resources
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pie_Form.resources
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Properties.Resources.resources
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.GenerateResource.cache
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.CoreCompileInputs.cache
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.exe
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.pdb
+C:\Users\HondaMoo\Desktop\statistics chart-1\statistics chart-1\statistics chart-1\statistics chart\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pyramidchart.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Boxplot.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Mainform.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.BarForm.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pie_Form.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pyramidchart.resources
+C:\Users\Khaled zahran\Desktop\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Dotsplot.resources
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe.config
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.exe
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\bin\Debug\Statistics Charts.pdb
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.AssemblyReference.cache
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Boxplot.resources
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Dotsplot.resources
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Mainform.resources
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.BarForm.resources
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pie_Form.resources
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Properties.Resources.resources
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics_Charts.Pyramidchart.resources
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.GenerateResource.cache
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.csproj.CoreCompileInputs.cache
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.exe
+C:\Users\khaled\Desktop\Statistics-Charts-master\Statistics-Charts-master\Statistics Charts\obj\Debug\Statistics Charts.pdb
